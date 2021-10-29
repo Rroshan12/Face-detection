@@ -1,5 +1,5 @@
 .boundingBox{
-    border: 1px solid blue;
+    border: 2px solid blue;
     position: absolute;
     display: flex;
     flex-wrap: wrap;
@@ -8,3 +8,4 @@
 
 
 }
+

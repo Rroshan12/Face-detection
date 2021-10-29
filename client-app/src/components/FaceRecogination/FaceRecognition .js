@@ -7,7 +7,7 @@ function FaceRecognition ({imageUrl,box}) {
        <div className="center">
 
        
-        <div className='  absolute  mt2'>
+        <div className='   absolute  mt2'>
             <img id="inputimage" src={imageUrl} width="500px" height="auto"/>
             <div className="boundingBox" style={{top: box.topRow, bottom: box.bottomRow, right: box.rightCol, left: box.leftCol}} />
             
