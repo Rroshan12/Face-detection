@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Cairo:wght@200&display=swap');
+
 body{
   margin:0;
   padding:0;
-  font-family: sans-serif;
+  font-family: 'Cairo', sans-serif;
   background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+
+
 }

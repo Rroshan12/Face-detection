@@ -3,7 +3,10 @@
     display :flex;
     flex-direction: column;
     justify-content: center;
+ 
 }
 .main{
     background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+    text-align: center;
+ 
 }
